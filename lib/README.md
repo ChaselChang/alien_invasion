@@ -1,1 +1,1 @@
-This lib directory contains game functions.
+### This lib directory contains game functions.
