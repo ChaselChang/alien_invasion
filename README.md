@@ -2,4 +2,4 @@
 
  This is a practical pygame project.
  
- <img src="images/alien_invasion.png" width="500">
+ <img src="images/alien_invasion.png" width="1000">
